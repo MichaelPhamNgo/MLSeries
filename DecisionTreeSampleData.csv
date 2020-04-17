@@ -1,0 +1,9 @@
+#,Weight,Height,Blood Pressure,Action,Heart Disease
+1,light,medium,medium,high,no
+2,heavy,short,high,low,yes
+3,light,short,high,low,yes
+4,heavy,tall,high,medium,no
+5,light,tall,high,high,no
+6,medium,short,medium,high,no
+7,medium,medium,medium,low,no
+8,heavy,short,low,high,yes
